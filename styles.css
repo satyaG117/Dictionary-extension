@@ -1,0 +1,21 @@
+.dcard {
+    width: 15%;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    position: absolute;
+    top: 10px;
+    left:20px;
+    background-color: antiquewhite;
+}
+
+.dhead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close-btn {
+    padding: 0px 2px;
+}
